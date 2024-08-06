@@ -5,7 +5,6 @@
 
 ### Easy asset tracking – at a glance 🚀
 
-![Application Screenshot](media_files/sample.png)
 
 Dashboard to centrally monitor current crypto portfolio developments, by providing an overview of their current value.
 Values can either be displayed by their current *Overall value* (requires adding Purchases) or by their *Current value*
